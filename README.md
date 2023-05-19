@@ -1,2 +1,2 @@
 # flipflopfloop
-[ddd](https://www.htmq.com/tutorial/23_4.shtml#source1)
+[ddd](20230517_diary.pdf)
