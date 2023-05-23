@@ -1,3 +1,3 @@
 # flipflopfloop
 [Diary](20230517_diary.pdf)
-$s$
+$\sum_{i=1}^n i$
