@@ -11,6 +11,9 @@
  });
 </script>
 
+<font color="red">sample text</font>
+
+
 [Diary](20230517_diary.pdf)
 $\mathbb{F}_2$
 * dddd
