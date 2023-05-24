@@ -16,7 +16,7 @@
 [Diary](20230517_diary.pdf)
 
 ## Profile
-- ddd
+- [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
 - ddd
 - ddd
 - ddddd
