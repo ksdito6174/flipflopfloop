@@ -15,7 +15,7 @@
 
 [Diary](20230517_diary.pdf)
 
-{\sc Profile
+$\sc Profile$
 
 $$\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
