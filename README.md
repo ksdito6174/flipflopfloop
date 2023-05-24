@@ -16,7 +16,7 @@
 [Diary](20230517_diary.pdf)
 
 ## Profile
-- [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
+- Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
 - 日本語にほんご
 - ddd
 - ddddd
