@@ -21,7 +21,10 @@ $$\sum_{k=1}^n k^2$$
 
 
 * dddd
-* dddd
+* • Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by cir-
+culant graphs
+K. Saito
+Advances in Mathematics of Communications 13 (2019), 213–220
 * ddddd
 * ddd
   * ggg
