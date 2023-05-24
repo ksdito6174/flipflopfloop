@@ -24,8 +24,11 @@
 - ddddddddd
 
 ### Print
-* Ken Saito, Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs, *Advances in Mathematics of Communications* **13** (2019), 213–220.
-* ddddd
-* ddd
+- Ken Saito, Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs, *Advances in Mathematics of Communications* **13** (2019), 213–220.
+- ddddd
+- ddd
   * ggg
-  * ggggg
+
+
+## Links
+- Twitter
