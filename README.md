@@ -11,7 +11,7 @@
  });
 </script>
 
-<font color="red">Last Updated: MAy 24, 2023</font>
+<font color="red">Last Updated: May 24, 2023</font>
 
 [Diary](20230517_diary.pdf)
 
