@@ -17,7 +17,7 @@
 [Diary](20230517_diary.pdf)
 $\mathbb{F}_2$ $\mathbb{F}_3$
 
-$$\sum_{k=1}$$
+$$\sum_{k=1}^n k^2$$
 
 
 * dddd
