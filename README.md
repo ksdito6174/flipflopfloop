@@ -25,15 +25,9 @@
 
 ### 3rd
 
-
-
-
 $$\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
-* dddd
-* Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs
-K. Saito
-*Advances in Mathematics of Communications* **13** (2019), 213–220
+* Ken Saito, Self-dual additive F4-codes of lengths up to $40$ represented by circulant graphs, Advances in Mathematics of Communications* **13** (2019), 213–220.
 * ddddd
 * ddd
   * ggg
