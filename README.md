@@ -13,12 +13,9 @@
 
 <font color="red">Last Updated: MAy 24, 2023</font>
 
-[gggg](https://github.com/ksdito6174/flipflopfloop/blob/3e40da13a37f6c4f28048f62ff2fd012e550b879/20230524.md)
 [Diary](20230517_diary.pdf)
-$\mathbb{F}_2$ $\mathbb{F}_3$
 
-$$\sum_{k=1}^n k^2$$
-
+$$\frac{-b ¥pm ¥squt{b^2-4ac}}{2a}$$
 
 * dddd
 * Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs
