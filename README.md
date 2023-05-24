@@ -13,7 +13,7 @@
 
 <font color="red">sample text</font>
 
-
+[gggg](https://github.com/ksdito6174/flipflopfloop/blob/3e40da13a37f6c4f28048f62ff2fd012e550b879/20230524.md)
 [Diary](20230517_diary.pdf)
 $\mathbb{F}_2$ $\mathbb{F}_3$
 
