@@ -15,7 +15,7 @@
 
 
 [Diary](20230517_diary.pdf)
-$\mathbb{F}_2$ $\mathbb{F}_3 ¥sum$
+$\mathbb{F}_2$ $\mathbb{F}_3 \sum$
 * dddd
 * dddd
 * ddddd
