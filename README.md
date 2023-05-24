@@ -15,7 +15,7 @@
 
 [Diary](20230517_diary.pdf)
 
-$$\frac{-b \pm \squt{b^2-4ac}}{2a}$$
+$$\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
 
 * dddd
 * Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs
