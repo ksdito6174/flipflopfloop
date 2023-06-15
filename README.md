@@ -11,7 +11,7 @@
  });
 </script>
 
-<font color="red">Last Updated: May 24, 2023</font>
+<font color="red">Last Updated: June 15, 2023</font>
 
 [Diary](20230517_diary.pdf)
 
@@ -19,10 +19,6 @@
 - Name: Ken Saito
 - Birthday: May 3rd, 1991
 - Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
-- ddd
-- ddddd
-- ddddddd
-- ddddddddd
 
 ### Print
 - Ken Saito, Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs, *Advances in Mathematics of Communications* **13** (2019), 213–220.
