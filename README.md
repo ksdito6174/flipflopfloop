@@ -13,9 +13,9 @@
 
 <font color="red">Last Updated: June 15, 2023</font>
 
-[Diary](梅.jpeg)
+[Diary]()
 
-![サンマの塩焼き]([/img/sanma.gif](https://www.zukan-bouz.com/public_image/Fish/87/Thumb630/sanma.jpg))
+![サンマの塩焼き](梅.jpeg)
 
 ## Profile
 - Name: Ken Saito
