@@ -13,7 +13,7 @@
 
 <font color="red">Last Updated: June 15, 2023</font>
 
-[Diary](20230517_diary.pdf)
+[Diary](梅.jpeg)
 
 ![サンマの塩焼き]([/img/sanma.gif](https://www.zukan-bouz.com/public_image/Fish/87/Thumb630/sanma.jpg))
 
