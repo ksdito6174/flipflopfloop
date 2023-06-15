@@ -13,6 +13,8 @@
 
 <font color="red">Last Updated: June 15, 2023</font>
 
+[asasasas](https://ksdito6174.github.io/flipflopfloop/#profile)
+
 [Diary]()
 
 ![サンマの塩焼き](梅.jpeg)
