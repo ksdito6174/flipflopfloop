@@ -16,8 +16,9 @@
 [Diary](20230517_diary.pdf)
 
 ## Profile
+- Name: Ken Saito
+- Birthday: May 3rd, 1991
 - Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
-- 日本語にほんご
 - ddd
 - ddddd
 - ddddddd
