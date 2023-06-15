@@ -15,6 +15,8 @@
 
 [Diary](20230517_diary.pdf)
 
+![サンマの塩焼き](/img/sanma.gif)
+
 ## Profile
 - Name: Ken Saito
 - Birthday: May 3rd, 1991
