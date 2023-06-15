@@ -15,7 +15,7 @@
 
 [Diary](20230517_diary.pdf)
 
-![サンマの塩焼き](/img/sanma.gif)
+![サンマの塩焼き]([/img/sanma.gif](https://www.zukan-bouz.com/public_image/Fish/87/Thumb630/sanma.jpg))
 
 ## Profile
 - Name: Ken Saito
