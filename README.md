@@ -15,7 +15,7 @@
 
 [asasasas](https://ksdito6174.github.io/flipflopfloop/#profile)
 
-[Diary]()
+[Diary](20230517_diary.pdf)
 
 ![サンマの塩焼き](梅.jpeg)
 - e
