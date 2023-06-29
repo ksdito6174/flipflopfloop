@@ -13,8 +13,6 @@
 
 <font color="red">Last Updated: June 29, 2023</font>
 
-[Diary](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fbaadbdb-fd98-3b5c-898d-9f0b6bb4278e)
-
 ![Ken Saito](https://pbs.twimg.com/profile_images/1428013131242954758/IfSlSJDT_400x400.jpg)
 
 ## Profile
@@ -69,6 +67,7 @@ March 29, 2018
 
 
 ## Links
+- [Diary](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fbaadbdb-fd98-3b5c-898d-9f0b6bb4278e)
 - [Twitter](https://twitter.com/ksaito495)
 - xxx
 - xxx
