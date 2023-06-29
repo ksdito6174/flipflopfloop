@@ -13,7 +13,7 @@
 
 <font color="red">Last Updated: June 29, 2023</font>
 
-![Ken Saito](https://pbs.twimg.com/profile_images/1428013131242954758/IfSlSJDT_400x400.jpg)
+![Ken Saito](14CF68F7-1DC6-413B-BD5B-A16C6D54E55A.jpg)
 
 ## Profile
 - Name: Ken Saito
