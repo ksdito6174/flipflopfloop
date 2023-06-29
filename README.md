@@ -19,9 +19,9 @@
 - Name: Ken Saito
 - Birthday: May 3rd, 1991
 - Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
-&nbsp;
-&nbsp;
-&nbsp;
+
+
+
 
 
 ## Educational Background
