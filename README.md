@@ -13,11 +13,9 @@
 
 <font color="red">Last Updated: June 29, 2023</font>
 
-[asasasas](https://ksdito6174.github.io/flipflopfloop/#profile)
-
 [Diary](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fbaadbdb-fd98-3b5c-898d-9f0b6bb4278e)
 
-![サンマの塩焼き](https://pbs.twimg.com/profile_images/1428013131242954758/IfSlSJDT_400x400.jpg)
+![Ken Saito](https://pbs.twimg.com/profile_images/1428013131242954758/IfSlSJDT_400x400.jpg)
 
 ## Profile
 - Name: Ken Saito
