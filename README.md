@@ -57,6 +57,23 @@ Submitted to Advances in Mathematics of Communications, (2021)
 - xxx
 - xxx
 
+
+## Talks
+- Binary Linear Complementary Dual Codes, 実験計画法ならびに情報数理と関連する組合せ構造 2018, 神戸大学 瀧川記念学術交流会館 大会議室, November 2, 2018
+
+
+\item Binary linear complementary dual codes \\
+The Japanese Conference on Combinatorics and its Applications in Sendai \\
+Sendai International Center \\
+May 20, 2018
+
+
+\item On binary codes with complementary dual \\
+The 5th Taiwan-Japan Conference on Combinatorics and its Applications
+National Taiwan Normal University \\
+March 29, 2018
+
+
 ## Links
 - [Twitter](https://twitter.com/ksaito495)
 - xxx
