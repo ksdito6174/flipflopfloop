@@ -38,12 +38,7 @@
 
 ## Publications
 ### Submitted
-- Construction for both self-dual codes and LCD codes
-K. Ishizuka and K. Saito \\
-Submitted to Advances in Mathematics of Communications, (2021)
-\end{itemize}
-\bigskip
-
+- K. Ishizuka and K. Saito, Construction for both self-dual codes and LCD codes, submitted to Advances in Mathematics of Communications, (2021)
 
 
 ### In Press
@@ -51,7 +46,8 @@ Submitted to Advances in Mathematics of Communications, (2021)
 
 
 ### In Print
-- K. Ishizuka and K. Saito, On the existence of quaternary Hermitian LCD codes with Hermitian dual distance $1$ *Discrete Math.* **345** (2022), 112702.
+- K. Ishizuka and K. Saito, On the existence of quaternary Hermitian LCD codes with Hermitian dual distance $1$,
+  *Discrete Math.* **345** (2022), 112702.
 - Ken Saito, Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs, *Advances in Mathematics of Communications* **13** (2019), 213–220.
 - xxx
 - xxx
