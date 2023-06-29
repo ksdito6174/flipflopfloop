@@ -1,4 +1,4 @@
-# Ken Saitogw
+# Ken Saito
 
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -12,7 +12,7 @@
 </script>
 
 
-<font color="red">Last Updated: June 29, 2023</font>
+<font color="red">Last Updated: June 30, 2023</font>
 
 ![Ken Saito](14CF68F7-1DC6-413B-BD5B-A16C6D54E55A.jpg)
 
