@@ -11,7 +11,7 @@
  });
 </script>
 
-<font color="red">Last Updated: June 15, 2023</font>
+<font color="red">Last Updated: June 29, 2023</font>
 
 [asasasas](https://ksdito6174.github.io/flipflopfloop/#profile)
 
@@ -22,7 +22,7 @@
 - e
 - e
 - e
-- e
+- kjhjk
 - e
 - e
 - e
