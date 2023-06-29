@@ -15,24 +15,15 @@
 
 [asasasas](https://ksdito6174.github.io/flipflopfloop/#profile)
 
-[Diary](20230517_diary.pdf)
+[Diary]()
 
 ![サンマの塩焼き](梅.jpeg)
-- e
-- e
-- e
-- e
-- kjhjk
-- e
-- e
-- e
-- e
-- e
-- e
-- e
-- e
-- e
-- e
+
+## Profile
+- Name: Ken Saito
+- Birthday: May 3rd, 1991
+- Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
+
 
 ## Educational Background
 - Mathematical System Analysis I, System Information Sciences, Division of Mathematics, Graduate School of Information Sciences, Tohoku University
@@ -45,54 +36,28 @@
 - Tsuruoka Minami High School
   * April, 2007 - March, 2010 (Graduated)
 
-## Profile
-- Name: Ken Saito
-- Birthday: May 3rd, 1991
-- Birthplace: [Tsuruoka](https://www.city.tsuruoka.lg.jp/), Yamagata, Japan
+## Publications
+### Submitted
+- Construction for both self-dual codes and LCD codes
+K. Ishizuka and K. Saito \\
+Submitted to Advances in Mathematics of Communications, (2021)
+\end{itemize}
+\bigskip
 
-### Print
+
+
+### In Press
+- xxx
+
+
+### In Print
+- K. Ishizuka and K. Saito, On the existence of quaternary Hermitian LCD codes with Hermitian dual distance $1$ *Discrete Math.* **345** (2022), 112702.
 - Ken Saito, Self-dual additive $\mathbb{F}_4$-codes of lengths up to $40$ represented by circulant graphs, *Advances in Mathematics of Communications* **13** (2019), 213–220.
-- ddddd
-- ddd
-  * ggg
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * a
-  * x
-  * 
-
+- xxx
+- xxx
+- xxx
 
 ## Links
-- Twitter
+- [Twitter](https://twitter.com/ksaito495)
+- xxx
+- xxx
