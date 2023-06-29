@@ -33,7 +33,17 @@
 - e
 - e
 - e
-- e
+
+## Educational Background
+- Mathematical System Analysis I, System Information Sciences, Division of Mathematics, Graduate School of Information Sciences, Tohoku University
+  * April, 2016 - March, 2023
+  * April, 2014 - March, 2016 (Master)
+  * Adviser: Masaaki Harada
+- Department of Mathematical Sciences, Faculty of Science, Yamagata University
+  * April, 2010 - March, 2014 (Bachelor)
+  * Adviser: Masaaki Harada
+- Tsuruoka Minami High School
+  * April, 2007 - March, 2010 (Graduated)
 
 ## Profile
 - Name: Ken Saito
